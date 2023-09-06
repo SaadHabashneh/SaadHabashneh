@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1>Contact Me</h1><br/>
 <a href="https://www.linkedin.com/in/saadhabashneh/">
 <img src="https://img.shields.io/badge/Linkedin-%23039BE5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-- Or Connect With Me On Gmail -> saad.k.habashneh@gmail.com
 
 <h1>Tech skills</h1> 
     <br/>
